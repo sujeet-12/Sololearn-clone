@@ -50,3 +50,4 @@ This project is open-source and available under the MIT License.
 
 - Inspiration from the **Sololearn** website's layout.
 - Various resources from **CSS frameworks** and web design tutorials.
+
